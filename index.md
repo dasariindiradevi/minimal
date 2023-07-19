@@ -10,17 +10,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Leads_Scoring Case Study
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+ X-Education sells the online courses to industry professionnals
+ X- Education gets lot of leads,its leads conversation is very poor
+ To make this process more efficient ,the company wishes to identify the most potential 
+leads,also known as ‘HOT LEADS’
 
-## Header 2
+Tools:  Data Analysing , Data Cleaning , Data Visualization , Scaling by Standard Scaler , Logistic Regression for calculating Accuracy,Precision , Recall
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Bike_Sharing 
 
-### Header 3
+BoomBikes has recently suffered considerable dips in their
+revenues due to the ongoing Corona pandemic. Business plan to be able to
+accelerate its revenue.
+
+ Tools: Data Analysing , Data Cleaning , Data Visualization, Developed linear regression model and provided best fit line to
+increase revenue for bike rental. 
+
+### RSVP Movie Case Study
 
 ```js
 // Javascript code with syntax highlighting.
